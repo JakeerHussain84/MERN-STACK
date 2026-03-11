@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>personal portfolio</title>
+    <link rel="stylesheet" href="newpgo.css">
+</head>
+<body>
+    <header>
+        <h1>NAME</h1>
+        <p>Full stack developer</p>
+    </header>
+    <section id="About">
+        <h2>About me</h2>
+        <img src="c:\Users\cselab\Downloads\imge.webp "alt="profile picture">
+        <p>Hello! I'm NAME,Currently i am pursuing in <b class="tech">
+            <br>
+        </p>
+    </section>
+    <section Id="skills">
+        <h2>skills</h2>
+        <ul>
+            <li>HTML & CSS   90%</li>
+            <li>JAVASCRIPT   70%</li>
+            <lI>REACT        75%</LI>
+            <lI>NODE.JS      60%</LI>
+            <li>core java    9o%</li>
+            <li>mysqal       80%</li>
+        </ul>
+    </section>
+    <section id="resume">
+        <h2>Resume</h2>
+        <a href="pdf link"download>download resume</a>
+    </section>
+    <section id="contact">
+        <h2>contact</h2>
+        <p>Email:email id</p>
+        <p>phone: number </p>
+    </section>
+    <factor>
+        <p>&copy;2026 Name.All rights reserved.&#x1f60</p>
+        <p>instgram id:<a href="link">Name</a></p>
+        <p>Facebook id:<a href="link">Name</a></p>
+    </factor>
+
+</body>
+</html>
