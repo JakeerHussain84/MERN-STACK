@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My WEBSITE</title>
+    <style>
+        body{
+            font-family: Arial;
+            margin:0;
+        }
+        .header{
+            background-color: rgb(228, 72, 72);
+            padding:20px;
+            text-align: center;
+        }
+        .nav{
+            background-color: rgb(159, 121, 195);
+            padding: 10px;
+            text-align: center;
+        }
+        .nav a{
+            color: rgb(171, 217, 142);
+            text-decoration: none;
+            margin: 15px;
+            font-size: 18px;
+            padding: 8px 12px;
+        }
+        .nav a:hover{
+            background-color: rgb(5, 43, 91);
+            color:black;
+            border-radius: 5px;
+        } 
+        .content{
+            padding:30px;
+            margin:20px;
+            border:2px;
+        }
+        .footer{
+            background-color: aquamarine;
+            text-align: center;
+            padding:15px;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>ANNAMACHARYA UNIVERSITY Admission</h1>
+    </div>
+<div class="nav">
+    <a href="about.html">Home</a>
+    <a href="college.html">About</a>
+    <a href="https://annamacharyauniversity.edu.in/"target="blank">contact</a>
+</div>
+<div class="footer">
+<p>@ 2026 MY WEBSITE<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My WEBSITE</title>
+    <style>
+        body{
+            font-family: Arial;
+            margin:0;
+        }
+        .header{
+            background-color: rgb(225, 130, 130);
+            padding:20px;
+            text-align: center;
+        }
+        .nav{
+            background-color: rgb(97, 26, 26);
+            padding: 10px;
+            text-align: center;
+        }
+        .nav a{
+            color: rgb(0, 0, 0);
+            text-decoration: none;
+            margin: 15px;
+            font-size: 18px;
+            padding: 8px 12px;
+        }
+        .nav a:hover{
+            background-color: rgb(100, 71, 16);
+            color:black;
+            border-radius: 5px;
+        } 
+        .content{
+            padding:30px;
+            margin:20px;
+            border:2px;
+        }
+        .footer{
+            background-color: rgb(133, 111, 111);
+            text-align: center;
+            padding:15px;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>ANNAMACHARYA UNIVERSITY Admission</h1>
+    </div>
+<div class="nav">
+    <a href="home.html">Back to Home</a>
+    <a href="about.html">About</a>
+    <a href="https://youtube/6C1MlNW0PvM"target="blank">contact</a>
+<div calss="content">
+    <h2>B.Tech Admissions open</h2>
+    <p>The University is offering admission</p>
+    <ul>
+        <li>CSE</li>
+        <li>ECE</li>
+        <li>EEE</li>
+        <li>ME</li>
+        <li>CE</li>
+
+    </ul>
+    <h3>Admission Fees</h3>
+    <p>The total admission fees For B.Tech is Approximate 5lakh</p>
+    <h3>Eligibility Criteria</h3>
+    <p>students must have atleast <b>75% marks in both 10th & 12th</b>to approximate</p>
+    <h3>Canteen Fees</h3>
+    <p>The hostel students need to pay additional charges is around <b>60000</b></p>
+    
+</div>
+    
+</body>
+</html></p>
+</div>
+</body>
+</html>
