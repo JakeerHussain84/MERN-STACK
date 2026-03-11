@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="text-align: center">
+    <h1>GOOGLE</h1>
+    <a href="https://www.google.com">
+        <img src="google.jpg" width="100">
+    </a>
+    <p> CLICK THE ABOVE PIC TO DIRECTLY LOGIN TO GOOGLE</p>
+    <br><br>
+    <h2>INSTAGRAM</h2>
+    <a href="https://www.instagram.com/harakesava18/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1280px-Instagram_logo_2022.svg.png" width="100">   
+    </a>
+    <p> CLICK THE ABOVE PIC TO SEE MY INSTA PROFILE</p>
+    <br><br>
+    <a href=https://i.ytimg.com/vi/PBSZFUc-xps/oardefault.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLCwUYi_7tapvto3P4nE7sSXeahw9w>check how you look like
+    </a>
+    <br><br>
+    <h2>YOUTUBE</h2>
+    <a href="https://www.youtube.com/">
+        <img src="https://img.freepik.com/free-psd/youtube-logo-icon-isolated-3d-render-illustration_47987-9790.jpg?semt=ais_hybrid&w=740&q=80" width="100">   
+    </a>
+    <p> CLICK THE ABOVE PIC TO VIEW YOUTUBE</p>
+</body>
+</html>
