@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table align="center"       border="1">
+          <caption><b>Student Biodata</b></caption>
+
+    <tr>
+        <td rowspan="8"><img src="//i.ytimg.com/vi/PBSZFUc-xps/oardefault.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLCwUYi_7tapvto3P4nE7sSXeahw9w" alt="photo" width="100" ></td>
+        <td><b>Name:</b> salaar</td>
+    </tr>
+    <tr>
+        <td><b>Age:</b> 17</td>
+    </tr>
+    <tr>
+        <td><b>Branch:</b> ECE</td>
+    </tr>
+    <tr>
+        <td><b>College:</b> green forest Engineering college</td>
+    </tr>
+    <tr>
+        <td><b>Email:</b> salaar@email.com</td>
+    </tr>
+    <tr>
+        <td><b>phone:</b> 1234567890</td>
+    </tr>
+    <tr>
+        <td><b>skills:</b>Climbing trees, HTML</td>
+    </tr>
+    <tr>
+        <td><b>Hobbies:</b> eating banana</td>
+    </tr>
+    </ta
