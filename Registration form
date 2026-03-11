@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style=" background-color:rgb(255, 255, 255);
+    width:350px;
+    padding:20px;
+    margin:auto;
+    border:5px solid#151418;" >
+    <h2> <u>Registration form </u></h2>
+    <form>
+        Name:
+        <input type="text" placeholder="Enter your name">
+        <br>
+        Email:
+        <input type="email" placeholder="Enter your email">
+        <br>
+         <label>Password:</label>
+        <input type="password" placeholder="Enter your password">
+        <br>
+        Gender: 
+        <br>
+        <input type="radio" name="Gender" >Male
+        <input type="radio" name="Gender" >Female
+        <input type="radio" name="Gender" >Others
+        <br><br>
+
+
+        skillls:<br>
+        <input type="checkbox">HTML
+        <br>
+         <input type="checkbox">Java
+        <br>
+          <input type="checkbox">Python
+        <br>
+
+
+        Message:
+        <input type="text" placeholder="Enter any Suggestions" >
+        <br>
+        <input type="submit" >
+    
+    </form>
+</body>
+</html>
